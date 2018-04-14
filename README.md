@@ -1,2 +1,4 @@
-# pentagon-sport
-hubt-project / pentagon-sport
+# pentagon
+hubt-project / pentagon
+
+(C) a sport brand by hoangdung
